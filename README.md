@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Sinha</h1>
-<h3 align="center">I'm en engineering student.</h3>
+<h3 align="center">I'm an engineering student and a passionate frontend developer from india.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0la0269&label=Profile%20views&color=a01c1c&style=flat-square" alt="h0la0269" /> </p>
 
