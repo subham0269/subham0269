@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **gaming, anime and music**
 
-- 📫 How to reach me **subham2002.sinha@gmail.com**
+- 📫 How to reach me **gitsubham21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
