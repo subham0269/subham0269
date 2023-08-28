@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Creative Projects
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about **gaming, anime and music**
-- 📫 How to reach me **gitsubham21@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subham-sinha-snu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
